@@ -1,4 +1,4 @@
-## # Gather Context Data for the LLM
+# Gather Context Data for the LLM
 
 ## Minimum Wage per Region
 
